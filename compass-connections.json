@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "419b9c8f-6394-417e-8262-999802a21397",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1722530496154"
+        }
+      },
+      "favorite": {
+        "name": "ATLAS CLUSTER0",
+        "color": "color1"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://prateek:HwG%40KyvstYxV86C@cluster0.ihdw2m2.mongodb.net/?tls=true",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

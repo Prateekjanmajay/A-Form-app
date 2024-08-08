@@ -1,0 +1,1 @@
+A full stack app having about 10 forms which are connected to backend so that all the information entered in the form which will be visible on UI , will create a document in the databse for that information i.e. data will be stored in the database.
